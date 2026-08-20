@@ -1,0 +1,3 @@
+# Production manifests are owned by the reviewers of production changes
+/manifests/** @asaravanakumar
+/apps/** @asaravanakumar
