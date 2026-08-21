@@ -15,5 +15,5 @@ spec:
     spec:
       containers:
         - name: checkout-service
-          image: ghactionsacr2026.azurecr.io/checkout-service:sha-initial
+          image: ghactionsacr2026v2.azurecr.io/checkout-service:sha-initial
           imagePullPolicy: IfNotPresent
